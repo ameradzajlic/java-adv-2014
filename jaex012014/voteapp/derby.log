@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Nov 28 18:12:55 CET 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0149-f764-23da-00000e9fa928 
+on database directory D:\rad\java_primeri\java-adv-2014\jaex012014\voteapp\appdb  with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/D:/rad/java_primeri/java-adv-2014/jaex012014/voteapp/target/dependency/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b18
+user.dir=D:\rad\java_primeri\java-adv-2014\jaex012014\voteapp
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

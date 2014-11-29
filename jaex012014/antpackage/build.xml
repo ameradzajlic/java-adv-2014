@@ -1,0 +1,17 @@
+<project name="My project" default="start">
+<target name="start" depends="compile,package,run" />
+<target name="compile">
+<javac srcdir="./src" destdir="./out" />
+</target>
+<target name="package">
+<jar basedir="./out" destfile="./jars/app.jar" >
+<fileset dir="." includes="libs/**"/>
+<manifest>
+   <attribute name="Main-Class" value="com.Main" />
+</manifest>
+</jar>
+</target>
+<target name="run" >
+<java jar="./jars/app.jar" fork="true" />
+</target>
+</project>

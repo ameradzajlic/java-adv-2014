@@ -1,0 +1,22 @@
+<project default="start" name="Our first ant project" basedir=".">
+	<target name="start" depends="clean,compile,createjar,runjar" />
+	<target name="clean">
+        <delete file="app.jar"/>
+    </target>
+	<target name="compile">
+		<javac srcdir="." destdir="." />
+	</target>
+	<target name="run">
+        <java classname="Program" fork="true"></java>
+    </target>
+	<target name="createjar">
+		<jar destfile="app.jar" basedir=".">
+			<manifest>
+			  <attribute name="Main-Class" value="Program"/>
+			</manifest>
+		</jar>
+	</target>
+	<target name="runjar">
+		<java jar="app.jar" fork="true"></java>
+	</target>
+</project>

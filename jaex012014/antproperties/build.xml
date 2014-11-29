@@ -1,0 +1,18 @@
+<project name="ant properties project" default="start">
+    <target name="start" depends="set,compile,run">
+    </target>
+    <target name="set">
+      <property name="sdir" value="." />
+      <property name="ddir" value="." />
+      <property name="cname" value="Program" />
+      <property name="parg" value="Peter" />
+    </target>
+    <target name="compile">
+      <javac srcdir="${sdir}" destdir="${ddir}" />
+    </target>
+    <target name="run">
+      <java classname="${cname}"  fork="true">
+        <arg value="${parg}" /> 
+      </java>
+    </target>
+</project>
