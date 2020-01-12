@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7688f6e3-6c07-45d9-bca9-9657e322338c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java-adv-2014" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="jaex042014" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WGqQ05XZdC9gOq2CShc4eR3eYA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7688f6e3-6c07-45d9-bca9-9657e322338c" name="Default Changelist" comment="" />
+      <created>1578786258128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578786258128</updated>
+    </task>
+    <task id="LOCAL-00001" summary="full commit">
+      <created>1578786533769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578786533769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="full commit">
+      <created>1578786652421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578786652421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="full commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="full commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="28" key="CommitChangelistDialog2" timestamp="1578786651741">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="467" y="28" key="CommitChangelistDialog2/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578786651741" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1578786663696">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578786663696" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1578788683749">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578788683749" />
+    <state x="522" y="166" key="VcsDiffUtil.ChangesDialog" timestamp="1578787179533">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="522" y="166" key="VcsDiffUtil.ChangesDialog/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578787179533" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1578786405140">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578786405140" />
+    <state x="508" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1578786784322">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578786784322" />
+    <state x="611" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578786363820">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578786363820" />
+    <state x="569" y="145" key="git4idea.branch.GitSmartOperationDialog" timestamp="1578788565339">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="569" y="145" key="git4idea.branch.GitSmartOperationDialog/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578788565339" />
+    <state x="592" y="233" key="git4idea.merge.GitMergeDialog" timestamp="1578787514903">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="592" y="233" key="git4idea.merge.GitMergeDialog/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578787514903" />
+    <state x="601" y="309" key="git4idea.rebase.GitRebaseDialog" timestamp="1578786484915">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="309" key="git4idea.rebase.GitRebaseDialog/0.0.1600.860/-1680.-157.1680.1010@0.0.1600.860" timestamp="1578786484915" />
+  </component>
+</project>
